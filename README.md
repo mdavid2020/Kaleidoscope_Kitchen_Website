@@ -1,6 +1,5 @@
 # Kaleidoscope Kitchen
 
-![](img/screen1.png)
  
 ## About 
 
@@ -10,9 +9,7 @@ To accomplish this, we:
   - Designed a mockup on Canva,
   - Found inspiration from real-world food websites including: Minimalist Baker, Pinch of Yum, Hello Fresh, and Blue Apron
 
-With the mockups and inspiration, we built simple-yet-beautiful webpages that really showcase the beauty of the food. See our homepage mockup below:
-
-![](img/home.png)
+With the mockups and inspiration, we built simple-yet-beautiful webpages that really showcase the beauty of the food. 
 
 ## Real-World Experience
 
